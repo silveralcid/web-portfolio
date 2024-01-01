@@ -9,3 +9,4 @@ Task List:
 <!-- Mobile - Menu should close after clicking link -->
 <!-- rebind home nav to #home -->
 <!-- Make screen slide on nav click -->
+Fix button transitions.
